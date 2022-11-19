@@ -1,6 +1,8 @@
 # Grocery store scheduling
 
-Assignment 2 for ECSE526 AI course at McGill University
+This project is about modeling and implementing an AI capable of predicting the optimized amount of products to order in the problem of **Grocery Store Scheduling**. I assumed the environment follows a **Hidden Markov Model**. The problem was solved using both **Value Iteration** and **Policy Iteration** alorithms.
+
+This was Assignment 2 in ECSE526 AI course at McGill University.
 
 ## Launch with default parameters
 Install the following libraries to ensure the program works :
